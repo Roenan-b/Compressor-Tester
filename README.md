@@ -1,4 +1,4 @@
-**# Compressor-Tester
+## Compressor-Tester
 -The "Compressor Tester" is a project that I inherited during my internship as an engineer with Air Lift.
 -Created a system capable of testing the compressors the warranty team were receiving back as returns.**
 

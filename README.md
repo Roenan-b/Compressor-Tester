@@ -1,6 +1,6 @@
 ## Compressor-Tester
 The "Compressor Tester" is a project that I completed during my internship as an engineer with Air Lift.
-Created a system capable of testing the compressors the warranty team were receiving back as returns. Used pre-exisitng code that was irrelevant to my project as the base of my program.
+Created a system capable of testing the compressors the warranty team were receiving back as returns. Used pre - exisitng hardware code that was mostly irrelevant to my project as the base of my program.
 
 ## Project Requirements
 Measurements for pressure are to be within ±2 psi (See testing data)
